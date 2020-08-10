@@ -16,7 +16,8 @@
 ```javascript
 const luis = {
   code: [Javascript, HTML, CSS, PHP, Shell script],
-  tools: [React, Redux, Node, Sass, Pug, Blade, WordPress, Docker, Kubernetes, Terraform],
+  tools: [React, Node, Sass, Pug, Blade, WordPress, Docker, Kubernetes, Terraform],
+  server: [DigitalOcean, AWS, S3, EC2, Route 53, RDS, SES],
   architecture: ["microservices", "design system pattern"],
   techCommunities: {
      coorganizer: "Comunidad WordPress Arequipa",
