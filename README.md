@@ -1,5 +1,4 @@
 ## Hi, I'm Luis Gago Casas <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-<img align='right' src="https://avatars1.githubusercontent.com/u/4383323?s=460&v=4" width="230">
 <p>
   <em>CTO at <a href="https://arcux.net">Arcux</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>Developer Consultant And SRE at <a href="https://elpueblo.com.pe">Diario El Pueblo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
