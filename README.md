@@ -25,6 +25,8 @@ const luis = {
 }
 ```
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luisgagocasas&show_icons=true" alt="luisgagocasas" /> </p>
+
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=luisgagocasas.luisgagocasas" alt="Visitors">                     
 </p>
